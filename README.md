@@ -7,7 +7,4 @@ In this file, I use the yfinance package, data analytics and time series modelli
 This established a set of analyses I need to do for other stocks and identifies current bottlenecks in the strategy.
 
 **Technologies used:**
-Python
-Machine Learning
-Time Series Analysis
-Financial Domain knowledge
+Python (pandas, ...), Machine Learning and Time Series Analysis (statmodels.tsa), Financial Domain knowledge (yfinance)
